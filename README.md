@@ -1,22 +1,16 @@
-# Portfólio - Bruno Carvalho
+# Agência BC 🚀
 
-Olá! Eu sou o Bruno, tenho 15 anos e crio sites profissionais.
+Landing page da Agência BC, feita pra apresentar serviços, portfólio e contato.
 
-### O que eu faço
-- Criação de Sites
-- Landing Pages
-- Portfólios
-- Lojas Virtuais
+## 🔗 Site no ar
+https://agencia-bc-exvk.onrender.com
 
-### Tecnologias que eu uso
-- Python (Flask)
-- HTML / CSS
-- JavaScript
+## 🛠️ Tecnologias
+- Python + Flask
+- HTML / CSS / JavaScript
+- Hospedado no Render
 
-### Como rodar o projeto
+## ▶️ Como rodar no PC
+```bash
 pip install -r requirements.txt
 python App.py
-
----
-Feito por Bruno Carvalho
-WhatsApp:(21)989866767
