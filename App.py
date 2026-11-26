@@ -1,8 +1,7 @@
 from flask import Flask, render_template, request, redirect
 import sqlite3
 
-app = Flask(__name__)
-
+app = Flask(__name__, static_folder='.', static_url_path='')
 def criar_banco():
     conn = sqlite3.connect('contatos.db')
     conn.execute('CREATE TABLE IF NOT EXISTS contatos (id INTEGER PRIMARY KEY, nome TEXT, email TEXT, mensagem TEXT)')
