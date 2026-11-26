@@ -1,14 +1,14 @@
-# Agência BC 🚀
+# Portfólio - Bruno Carvalho
 
-Portfólio oficial da Agência BC - Criação de sites, landing pages e identidade visual.
+Olá! Eu sou o Bruno, tenho 15 anos e crio sites profissionais.
 
 ### O que eu faço
-- Criação de Sites Profissionais
-- Landing Pages que vendem
+- Criação de Sites
+- Landing Pages
+- Portfólios
 - Lojas Virtuais
-- Identidade Visual
 
-### Tecnologias usadas
+### Tecnologias que eu uso
 - Python (Flask)
 - HTML / CSS
 - JavaScript
@@ -18,5 +18,5 @@ pip install -r requirements.txt
 python App.py
 
 ---
-Feito por Bruno Carvalho - Agência BC
-WhatsApp: (21) 98149-6263# Agencia-bc
+Feito por Bruno Carvalho
+WhatsApp: (21)98986-6767
