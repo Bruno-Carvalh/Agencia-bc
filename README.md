@@ -19,4 +19,4 @@ python App.py
 
 ---
 Feito por Bruno Carvalho
-WhatsApp: (21)98986-6767
+WhatsApp:(21)989866767
